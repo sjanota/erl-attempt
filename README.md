@@ -1,4 +1,5 @@
 # About 'attempt'
+[![Build Status](https://travis-ci.org/sjanota/erl-attempt.svg?branch=master)](https://travis-ci.org/sjanota/erl-attempt)
 
 attempt is a functional wrapper for possibility of an error. It is 
 inspired by Scala's Try.
